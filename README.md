@@ -1,2 +1,7 @@
 # wasm-backend-calculator
-wasmバックエンドの電卓
+
+wasm バックエンドの電卓
+
+```
+dune exec ./main.exe
+```
